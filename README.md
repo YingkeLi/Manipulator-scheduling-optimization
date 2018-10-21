@@ -5,16 +5,16 @@ This project solved the problems of the scheduling of two manipulators based on 
 ![tools]({{base.url}}\tools.png)
 
 product A:
-![A]({{base.url}}\A.jpg)
+![A]({{base.url}}\A.JPG)
 
 product B:
-![B]({{base.url}}\B.jpg)
+![B]({{base.url}}\B.JPG)
 
 product C:
-![C]({{base.url}}\C.jpg)
+![C]({{base.url}}\C.JPG)
 
 product D:
-![D]({{base.url}}\D.jpg)
+![D]({{base.url}}\D.JPG)
 
 Task 1: 8$\times$A
 
